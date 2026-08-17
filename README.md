@@ -32,12 +32,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
-
 ## 📌 Featured Projects
-
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔍 [Deepfake Risks & Regulation](https://github.com/yusra-rana) | Research on AI-generated synthetic media threats & governance frameworks | Research |
+| 🏭 [Heritage Factory Dashboard](https://github.com/yusra-rana/Heritage-Factory-Dashboard) | Full-stack manufacturing dashboard with JWT auth, REST APIs & CRUD | Node.js, Express |
 | 🎮 [Word Guessing Game](https://github.com/yusra-rana/Word-Guessing-Game-Python) | Python game where user guesses letters to reveal a hidden word | Python |
 | ⌨️ [Keyboard Input Analyzer](https://github.com/yusra-rana/Keyboard-Input-Analyzer-Java) | Keyboard input analysis tool — Computer Organization & Assembly | Java |
 | 🎓 [Student Management System](https://github.com/yusra-rana/Student-Management-System-Java) | Student records system with login page using Oracle DB | Java |
