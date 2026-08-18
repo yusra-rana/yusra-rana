@@ -78,11 +78,16 @@
 
 <div align="center">
 
-![Yusra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusra-rana\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<a href="https://github.com/yusra-rana">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yusra-rana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusra-rana\&layout=compact\&theme=tokyonight\&hide_border=true)
+<a href="https://github.com/yusra-rana">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusra-rana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
+
 
 ---
 
